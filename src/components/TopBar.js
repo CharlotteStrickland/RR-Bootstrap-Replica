@@ -1,7 +1,6 @@
 import NavBar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Button from 'react-bootstrap/Button'
-import { toBePartiallyChecked } from '@testing-library/jest-dom/dist/matchers'
 
 export default function TopBar() {
     return (
